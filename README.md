@@ -1,4 +1,4 @@
-## FLIPPER V1 — Escultura cinética com Arduino (PT) / Kinetic sculpture with Arduino (EN)
+## FLIPPER — Escultura cinética com Arduino (PT) / Kinetic sculpture with Arduino (EN)
 
 ### Português
 
@@ -139,5 +139,6 @@ FLIPPER V1 is a kinetic hourglass sculpture driven by three Arduino boards. It c
 —
 
 Se desejar, adicione fotos/diagramas das ligações e da obra nas seções acima. | You may add photos/diagrams of the wiring and the piece in the sections above.
+
 
 
