@@ -73,7 +73,7 @@ FLIPPER é uma escultura cinética de ampulhetas controlada por três placas Ard
 
 **Description**
 
-FLIPPER V1 is a kinetic hourglass sculpture driven by three Arduino boards. It controls up to 30 servos arranged in 5 rows and moves them in a coordinated, time‑staggered pattern. The firmware uses non‑blocking scheduling with `millis()` and offsets per board and per servo.
+FLIPPER is a kinetic hourglass sculpture driven by three Arduino boards. It controls up to 30 servos arranged in 5 rows and moves them in a coordinated, time‑staggered pattern. The firmware uses non‑blocking scheduling with `millis()` and offsets per board and per servo.
 
 **Board layout**
 - **Board 0**: rows 1 and 2 (rear, higher), up to 12 servos (pins 2–13)
@@ -139,6 +139,7 @@ FLIPPER V1 is a kinetic hourglass sculpture driven by three Arduino boards. It c
 —
 
 Se desejar, adicione fotos/diagramas das ligações e da obra nas seções acima. | You may add photos/diagrams of the wiring and the piece in the sections above.
+
 
 
 
